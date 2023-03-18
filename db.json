@@ -1,0 +1,565 @@
+{
+  "guitar": [
+    {
+      "id": 0,
+      "name": "Guitar Body",
+      "image": "images/DSC02586.jpeg",
+      "featured": 1,
+      "pageUrl": "/guidedirectory/0",
+      "pageUrlTitle": "GuitarBody",
+      "description": "Guitar Body Guide: Top Wood, body wood, etc..."
+    },
+    {
+      "id": 1,
+      "name": "Guitar Necks",
+      "image": "images/neck_01.jpg",
+      "featured": 2,
+      "pageUrl": "/guidedirectory/1",
+      "pageUrlTitle": "Guitar Neck",
+      "description": "We have Guitar Neck Guides"
+    },
+    {
+      "id": 2,
+      "name": "Guitar Brands",
+      "image": "images/guitar.jpg",
+      "featured": 3,
+      "pageUrl": "/guidedirectory/2",
+      "pageUrlTitle": "Guitar Brands",
+      "description": "Guitar Brands"
+    },
+    {
+      "id": 3,
+      "name": "Guitar Bridges",
+      "image": "images/9862135.jpg",
+      "featured": 0,
+      "pageUrl": "/guidedirectory/3",
+      "pageUrlTitle": "Guitar Bridges",
+      "description": "Bridges"
+    },
+    {
+      "id": 4,
+      "name": "Guitar Pickups",
+      "image": "images/DP259FBB+BK.png",
+      "featured": 0,
+      "pageUrl": "/guidedirectory/4",
+      "pageUrlTitle": "Guitar pickups",
+      "description": "Guide for Guitar pickups"
+    }
+  ],
+  "guitarstat": [
+    {
+      "id": 0,
+      "guitarid": 0,
+      "statName": "Guitar Body",
+      "head": "Guitar Body Guide",
+      "text": "There are 3 issues addressed in this guide regarding guitar bodies; first, the discussion of the wood and its affect on the sound of the instrument, second, the style of body and its affect on your playing and the sound of the guitar, finally, and most importantly for most luthiers, the construction methods and layering of the wood. "
+    },
+    {
+      "id": 1,
+      "guitarid": 1,
+      "statName": "Guitar Neck",
+      "head": "Guitar Neck Guide",
+      "text": "Guitar Necks are of as much import to the guitar sound as our the bodies, and pickups used. "
+    },
+    {
+      "id": 2,
+      "guitarid": 2,
+      "statName": "Guitar Brands",
+      "head": "Guitar Brands Guide",
+      "text": "When buying an instrument, especially an electric guitar, the brand, and manufacturing company, of that instrument makes a huge difference in your purchase choices. The factories used, import scenarios and basic approach to pricing and marketing each model can differ a great deal between the different brands. For example, an American company like Kiesel will make you a fairly custom guitar, for use in professional musical applications for the $1500-$3500 pricetag; while a foreign import company, like Ibanez, will get you a lower level instrument for the sub-$1000 range, but require a significant $3000+ for a professional grade similar to the previously mentioned family owned USA company that Jeff Kiesel runs."
+    },
+    {
+      "id": 3,
+      "guitarid": 3,
+      "statName": "Guitar bridges",
+      "head": "Guitar Bridge Guide",
+      "text": "Many might think a guitar bridge is just a place for your strings to enter the body, but the guitar bridge is a profoundly important part of the guitar itself. "
+    },
+    {
+      "id": 4,
+      "guitarid": 4,
+      "statName": "Guitar Pickups",
+      "head": "Guitar Pickups Guide",
+      "text": "The sound of each guitar will differ greatly depending upon a number of factors; this guide is built around many of these -- the pickups are probably one of the most profound in this discussion. Pickups are as different model to model, brand to brand, as are the guitars themselves. "
+    }
+  ],
+  "guitarstat2": [
+    {
+      "id": 0,
+      "guitarid": 0,
+      "statName": "Guitar Body",
+      "head": "Guitar Body Guide",
+      "text": "For more on Guitar Bodies see guide links  below "
+    },
+    {
+      "id": 1,
+      "guitarid": 1,
+      "statName": "Guitar Neck",
+      "head": "Guitar Neck Guide",
+      "text": "For more on Guitar Necks see guide links  below "
+    },
+    {
+      "id": 2,
+      "guitarid": 2,
+      "statName": "Guitar Brands",
+      "head": "Guitar Brands Guide",
+      "text": "For more on Guitar Brands see guide links  below "
+    },
+    {
+      "id": 3,
+      "guitarid": 3,
+      "statName": "Guitar bridges",
+      "head": "Guitar Bridge Guide",
+      "text": "For more on Guitar Bridges see guide links  below "
+    },
+    {
+      "id": 4,
+      "guitarid": 4,
+      "statName": "Guitar Pickups",
+      "head": "Guitar Pickup Guide",
+      "text": "For more on guitar pickups see guide links below"
+    }
+  ],
+  "guitarstat3": [
+    {
+      "id": 0,
+      "guitarid": 0,
+      "statName": "Guitar Body",
+      "videoId": "https://www.youtube.com/watch?v=ux1d3yF8-Ro",
+      "head": "Some YouTube Links for Guitar Body and body wood discussion",
+      "text": "Stop Listening With your Eyes: Tonewood is Bull...",
+      "videoId2": "https://www.youtube.com/watch?v=Y04TpXnbKRg",
+      "text2": "Alamo Music: Demystifying tonewoods..."
+    },
+    {
+      "id": 1,
+      "guitarid": 1,
+      "statName": "Guitar Neck",
+      "videoId": "https://www.youtube.com/watch?v=wrB1oNqRBbU",
+      "head": "",
+      "text": "Lucas Crossley explains necks and fingerboards",
+      "videoId2": "https://www.youtube.com/watch?v=P05kPBVUBGI",
+      "text2": "Casino Guitars Baxter and James discuss necks and historical shapes -- good for size comparison"
+    },
+    {
+      "id": 2,
+      "guitarid": 2,
+      "statName": "Guitar Brands",
+      "videoId": "https://www.youtube.com/watch?v=ttXev7tcBxU",
+      "head": "",
+      "text": "Darrell Braun discusses off brands (not Fender or Gibson)",
+      "videoId2": "https://www.youtube.com/watch?v=2L-ppGQKm5E",
+      "text2": "Ola Englund samples two modern guitars from Jeff Kiesl's shop"
+    },
+    {
+      "id": 3,
+      "guitarid": 3,
+      "statName": "Guitar bridges",
+      "videoId": "https://www.youtube.com/watch?v=eMkFSu1bc6c",
+      "head": "Some YouTube Links for bridges discussion",
+      "text": "Rory Price explains different bridge types",
+      "videoId2": "https://www.youtube.com/watch?v=-sfP76IZQdM",
+      "text2": "Darrell Braun on Evertune bridges."
+    },
+    {
+      "id": 4,
+      "guitarid": 4,
+      "statName": "Guitar Pickups",
+      "videoId": "https://www.youtube.com/watch?v=5JMsRX6SGlw",
+      "head": "(almost) Everything About Pickups...CSGuitars",
+      "text": "Stop Listening With your Eyes: Tonewood is Bull...",
+      "videoId2": "https://www.youtube.com/watch?v=-lVWDl-4Ue8",
+      "text2": "Guitar Pickups 101"
+    }
+  ],
+  "guitarstat4": [
+    {
+      "id": 0,
+      "guitarid": 0,
+      "statName": "Guitar Body",
+      "nameMan": "The Electric Luthier Tone Woods Explained",
+      "nameMan2": "Fuelrocks Wood discussion",
+      "nameMan3": "Guitarist Next Door on tone Woods",
+      "Manufacture1URL": "https://theelectricluthier.com/guitar-wood-types-explained/",
+      "Manufacture2URL": "https://www.fuelrocks.com/the-different-types-of-wood-used-for-electric-guitar-bodies/",
+      "Manufacture3URL": "https://guitaristnextdoor.com/electric-guitar-tonewoods/"
+    },
+    {
+      "id": 1,
+      "guitarid": 1,
+      "statName": "Guitar Neck",
+      "nameMan": "Guitar Gear Finder Neck Shapes",
+      "nameMan2": "Guitar Lobby 8 Most Common Necks",
+      "nameMan3": "Fender: C-V-U Which Neck Shape is for you?",
+      "Manufacture1URL": "https://guitargearfinder.com/guides/guitar-neck-shapes/",
+      "Manufacture2URL": "https://www.guitarlobby.com/guitar-neck-shapes/",
+      "Manufacture3URL": "https://www.fender.com/articles/instruments/c-u-v-which-neck-shape-is-for-you"
+    },
+    {
+      "id": 2,
+      "guitarid": 2,
+      "statName": "Guitar brand",
+      "nameMan": "Really Simple Guitar: Best Guitar Brands",
+      "nameMan2": "SpinDitty: Does brand matter...?",
+      "nameMan3": "HigherHZ: 6 best guitar brands...",
+      "Manufacture1URL": "https://reallysimpleguitar.com/best-guitar-brands/",
+      "Manufacture2URL": "https://spinditty.com/instruments-gear/Does-Brand-Matter-When-Buying-a-Guitar",
+      "Manufacture3URL": "https://higherhz.com/best-guitar-brands/"
+    },
+    {
+      "id": 3,
+      "guitarid": 3,
+      "statName": "Guitar Bridges",
+      "nameMan": "Guitar Meet: What are the different kinds...",
+      "nameMan2": "Guitar InsideOut: What is a Guitar Bridge?",
+      "nameMan3": "Guitar Player: Understanding the basics of guitar bridges",
+      "Manufacture1URL": "https://www.guitarmeet.com/what-are-the-different-kinds-of-electric-guitar-bridges/",
+      "Manufacture2URL": "https://www.guitarinsideout.com/what-is-a-guitar-bridge/",
+      "Manufacture3URL": "https://www.guitarplayer.com/gear/understanding-the-basics-of-electric-guitar-bridges"
+    },
+    {
+      "id": 4,
+      "guitarid": 4,
+      "statName": "Guitar Pickups",
+      "nameMan": "MasterClass: What Is a Guitar Pickup?...",
+      "nameMan2": "Guitar World: ...Best Guitar Pickups...",
+      "nameMan3": "Andertons: Let the Captain's people give you the Ultimate Guide...lol",
+      "Manufacture1URL": "https://www.masterclass.com/articles/guitar-101-what-is-a-guitar-pickup-learn-about-the-different-types-of-electric-guitar-pickups",
+      "Manufacture2URL": "https://www.guitarworld.com/features/best-electric-guitar-pickups",
+      "Manufacture3URL": "https://www.andertons.co.uk/guitar-pickup-guide"
+    }
+  ],
+  "guitarstat5": [
+    {
+      "id": 0,
+      "guitarid": 0,
+      "statName": "Guitar Body",
+      "nameMan": "Warmoth Guitar Bodies",
+      "nameMan2": "USA Custom Guitars",
+      "nameMan3": "StewMac Tone Woods and Body Page",
+      "Manufacture1URL": "https://warmoth.com/index.php/guitar-bodies",
+      "Manufacture2URL": "https://usacustomguitars.com/?page_id=1317",
+      "Manufacture3URL": "https://www.stewmac.com/tonewoods/shop-tonewood-by-instrument/electric-guitar-bodies-and-necks-and-wood/electric-guitar-body-blanks/"
+    },
+    {
+      "id": 1,
+      "guitarid": 1,
+      "statName": "Guitar Neck",
+      "nameMan": "ZZounds Guitar Necks",
+      "nameMan2": "AllParts Guitar Necks",
+      "nameMan3": "StewMac",
+      "nameMan4": "Warmoth Necks",
+      "nameMan5": "Reverb Neck Listings",
+      "Manufacture1URL": "https://www.zzounds.com/cat--Guitar-Necks--5462",
+      "Manufacture2URL": "https://www.allparts.com/collections/guitar-necks?grid_list=grid-view&filter.v.price.gte=&filter.v.price.lte=",
+      "Manufacture3URL": "https://www.stewmac.com/tonewoods/shop-tonewood-by-instrument/electric-guitar-bodies-and-necks-and-wood/electric-guitar-necks/",
+      "Manufacture4URL": "https://warmoth.com/index.php/guitar-necks",
+      "Manufacture5URL": "https://reverb.com/c/parts/necks"
+    },
+    {
+      "id": 2,
+      "guitarid": 2,
+      "statName": "Guitar Brands",
+      "nameMan": "Ibanez",
+      "nameMan2": "Kiesel",
+      "nameMan3": "Jackson",
+      "nameMan4": "Fender",
+      "nameMan5": "Gibson",
+      "Manufacture1URL": "https://www.ibanez.com/usa/",
+      "Manufacture2URL": "https://www.kieselguitars.com/",
+      "Manufacture3URL": "https://www.jacksonguitars.com/en-US/start",
+      "Manufacture4URL": "https://www.fender.com/en-US/start",
+      "Manufacture5URL": "https://www.gibson.com/en-US/"
+    },
+    {
+      "id": 3,
+      "guitarid": 3,
+      "statName": "Guitar Bridges",
+      "nameMan": "Sweetwater",
+      "nameMan2": "Stew Mac",
+      "nameMan3": "Guitar Center",
+      "nameMan4": "Ebay: Bridges",
+      "nameMan5": "Reverb: Bridges",
+      "Manufacture1URL": "https://www.sweetwater.com/c1243--Guitar_Bridges_and_Tailpieces",
+      "Manufacture2URL": "https://www.stewmac.com/parts-and-hardware/bridges-and-tailpieces/bridges-and-tailpieces-for-electric-guitar/",
+      "Manufacture3URL": "https://www.guitarcenter.com/Bridges-Tailpieces-for-Guitars.gc",
+      "Manufacture4URL": "https://www.ebay.com/b/Guitar-Bridges/41407/bn_3129051",
+      "Manufacture5URL": "https://reverb.com/c/parts/bridges"
+    },
+    {
+      "id": 4,
+      "guitarid": 4,
+      "statName": "Guitar Pickups",
+      "nameMan": "Fishman",
+      "nameMan2": "Dimarzio",
+      "nameMan3": "Seymour Duncan",
+      "nameMan4": "EMG",
+      "nameMan5": "Bare Nuckle Pickups",
+      "Manufacture1URL": "https://www.fishman.com/product-type-electric-pickups/",
+      "Manufacture2URL": "https://www.dimarzio.com/",
+      "Manufacture3URL": "https://www.seymourduncan.com/",
+      "Manufacture4URL": "https://www.emgpickups.com/guitar.html",
+      "Manufacture5URL": "https://www.bareknucklepickups.co.uk/"
+    }
+  ],
+  "siteref": [
+    {
+      "id": 0,
+      "section": "Carousel",
+      "text": "Original Code example that was used as a mod model for the front page carousel. The idea was not without its hangups, the use of non-component selectors made styling difficult! The original used an array that didn't function well, and had to be modified for use with middleware and async calls to a database.",
+      "url1": "https://www.geeksforgeeks.org/reactjs-reactstrap-carousel-component/"
+    },
+    {
+      "id": 1,
+      "section": "Pickup Guide Link",
+      "text": "",
+      "url1": "https://d2emr0qhzqfj88.cloudfront.net/s3fs-public/products/DP259FBB%2BBK.png"
+    },
+    {
+      "id": 2,
+      "section": "h3 heading",
+      "text": "A few examples, including mine, that inspired the H3 heading trick ",
+      "url1": "https://css-tricks.com/adam-argyles-sick-mouse-out-css-hover-effect/",
+      "url2": "https://codepen.io/argyleink/pen/poEjvpd?editors=1100",
+      "url3": "https://snack.expo.dev/@pga_exp/code-challenge:-animated",
+      "url4": "https://www.rareprogrammer.com/mouse-in-and-mouse-out-hover-effect-using-css/"
+    },
+    {
+      "id": 3,
+      "section": "Guitar Carousel Images",
+      "text": "Ibanez Guitars Used as the Carousel Images",
+      "url1": "https://www.ibanez.com/common/product_artist_file/file/p_region_RG8520_GE_00_03.png",
+      "url2": "https://www.ibanez.com/common/product_artist_file/file/p_region_JIVAX2_GH_00_02.png",
+      "url3": "https://www.ibanez.com/common/product_artist_file/file/p_region_S6570Q_NBL_00_02.png",
+      "url4": "https://www.ibanez.com/common/product_artist_file/file/p_region_M8M_33_03.png",
+      "url5": "https://www.ibanez.com/common/product_artist_file/file/p_region_JS2GD_00_02.png",
+      "url6": "https://www.ibanez.com/common/product_artist_file/file/p_region_RGDR4327_NTF_00_01.png",
+      "url7": "https://www.ibanez.com/common/product_artist_file/file/p_region_RGA622XH_BK_00_01.png",
+      "url8": "https://static.wikia.nocookie.net/ibanez/images/4/49/2018_RG8527Z_SDE_00_01_pd.png/revision/latest?cb=20180516200603",
+      "url9": "https://www.ibanez.com/common/product_artist_file/file/p_region_RGR5221_TFR_00_01.png",
+      "url10": "https://www.ibanez.com/common/product_artist_file/file/p_region_RG5170B_BK_00_01.png"
+    },
+    {
+      "id": 4,
+      "section": "Site Architecture",
+      "text": "The overall async Redux Global state approach, using middleware thunks was inspired by the NuCamp nucampsite project overall architecture. The Fetch/extra reducer architecture was used, and somewhat modified, for use with a myriad of different JSX components; most pages created using an outside data base for content. While the JSX components and site content are quite different from nucampsite, the overall use of state, with some local exceptions, was very similar to the one used in the NuCamp Redux class."
+    },
+    {
+      "id": 5,
+      "section": "Guitar Frets",
+      "text": "Picture for guitar frets, from Jesscar website",
+      "url1": "https://www.jescarguitar.com/wp-content/uploads/2018/03/section-art-2.jpg"
+    },
+    {
+      "id": 6,
+      "section": "Blur card Chase effect",
+      "text": "This is a pretty cool, and fairly tweaky blur effect that was originally inspired by Gayane Gasparyan and Kevin Powell. Modifications were made for speed, colors, size and frequency.",
+      "url1": "https://codepen.io/gayane-gasparyan/pen/jOmaBQK",
+      "url2": "https://codepen.io/kevinpowell/pen/QWVKZjx"
+    }
+  ],
+  "frontitems": [
+    {
+      "src": "http://localhost:3003/images/p_region_RGA622XH_BK_00_01.png",
+      "altText": "RGA622"
+    },
+    {
+      "src": "http://localhost:3003/images/p_region_RGDR4327_NTF_00_01.png",
+      "altText": "RGDR4327"
+    },
+    {
+      "src": "http://localhost:3003/images/p_region_S6570Q_NBL_00_02.png",
+      "altText": "S6570Q"
+    },
+    {
+      "src": "http://localhost:3003/images/p_region_M8M_33_03.png",
+      "altText": "M8M"
+    },
+    {
+      "src": "http://localhost:3003/images/guitar.jpg",
+      "altText": "RG8527"
+    },
+    {
+      "src": "http://localhost:3003/images/p_region_JS2GD_00_02.png",
+      "altText": "JS2GD"
+    },
+    {
+      "src": "http://localhost:3003/images/p_region_RG5170B_BK_00_01.png",
+      "altText": "RG5170B"
+    },
+    {
+      "src": "http://localhost:3003/images/p_region_RGR5221_TFR_00_01.png",
+      "altText": "RGR5221"
+    },
+    {
+      "src": "http://localhost:3003/images/p_region_JIVAX2_GH_00_02.png",
+      "altText": "Jiva2"
+    },
+    {
+      "src": "http://localhost:3003/images/p_region_RG8520_GE_00_03.png",
+      "altText": "RG8520"
+    }
+  ],
+  "contact": [
+    {
+      "id": 0,
+      "firstname": "Test",
+      "lastname": "Test",
+      "email": "test@test.com",
+      "country": "CoolCountry",
+      "date": "",
+      "feedback": "test"
+    },
+    {
+      "firstName": "Doggie",
+      "lastName": "Barkins",
+      "email": "barks@barsk.com.co",
+      "country": "Algeria",
+      "feedback": "Pup rocks",
+      "id": 1
+    },
+    {
+      "firstName": "Dog",
+      "lastName": "Barks",
+      "email": "bb@barks.co",
+      "country": "Co",
+      "date": "2023-02-11T15:10:02.379Z",
+      "feedback": "alsdfjkasldfjasdfasdfasdfasdfasdfasdfasdf",
+      "id": 2
+    },
+    {
+      "firstName": "Pup",
+      "lastName": "Puppers",
+      "email": "pup@g.com",
+      "country": "Pupland",
+      "date": "Sat Feb 11 2023",
+      "feedback": "alsdjfalskdfasdfpuppers",
+      "id": 3
+    },
+    {
+      "firstName": "Puppy",
+      "lastName": "Doggers",
+      "email": "pd@pd.co",
+      "country": "USA",
+      "date": "Sat Feb 11 2023",
+      "feedback": "Pup",
+      "id": 4
+    },
+    {
+      "firstName": "Mrpuppy",
+      "lastName": "Bobbbdog",
+      "email": "alsdfja@askdlfjasl.com",
+      "country": "USC",
+      "date": "Sat Feb 11 2023",
+      "feedback": "Quick val",
+      "id": 5
+    },
+    {
+      "firstName": "Paul",
+      "lastName": "Adam",
+      "email": "pga@pga.com",
+      "country": "USA",
+      "date": "Sun Mar 12 2023",
+      "feedback": "alsdkfjaslkdjfasdfasdfasdf",
+      "id": 6
+    },
+    {
+      "firstName": "Puppy",
+      "lastName": "Dogg",
+      "email": "pup@sgmail.com",
+      "country": "USA",
+      "date": "Mon Mar 13 2023",
+      "feedback": "a;lskdfjal;skdfjasldkfjasdfasdfasdf",
+      "id": 7
+    },
+    {
+      "firstName": "Paul",
+      "lastName": "Adam",
+      "email": "pga@pga.com",
+      "country": "USA",
+      "date": "Mon Mar 13 2023",
+      "feedback": "Sample Test that sort of thing\n",
+      "id": 8
+    },
+    {
+      "firstName": "Puppers",
+      "lastName": "Aogg",
+      "email": "paupy@dogg.com",
+      "country": "Belguim",
+      "date": "Tue Mar 14 2023",
+      "feedback": "Not from bel",
+      "id": 9
+    },
+    {
+      "firstName": "Paul",
+      "lastName": "Adam",
+      "email": "pga@pga.com",
+      "country": "USA",
+      "date": "Tue Mar 14 2023",
+      "feedback": "alskdfjalskdjfalksjdfasdfasdf",
+      "id": 10
+    }
+  ],
+  "links": [
+    {
+      "id": 0,
+      "name": "Home",
+      "url": ""
+    },
+    {
+      "id": 1,
+      "name": "Contact",
+      "url": "contact"
+    },
+    {
+      "id": 2,
+      "name": "About",
+      "url": "about"
+    },
+    {
+      "id": 3,
+      "name": "Guideaboutpage",
+      "url": "guideaboutpage"
+    },
+    {
+      "id": 4,
+      "name": "Guidesiteref",
+      "url": "guidesiteref"
+    },
+    {
+      "id": 5,
+      "name": "Guidesitemap",
+      "url": "guidesitemap"
+    },
+    {
+      "id": 6,
+      "name": "Guidedirectory",
+      "url": "guidedirectory"
+    },
+    {
+      "id": 7,
+      "name": "Body",
+      "url": "guidedirectory/0"
+    },
+    {
+      "id": 8,
+      "name": "Neck",
+      "url": "guidedirectory/1"
+    },
+    {
+      "id": 9,
+      "name": "Guitar Brands",
+      "url": "guidedirectory/2"
+    },
+    {
+      "id": 10,
+      "name": "Guitar Bridges",
+      "url": "guidedirectory/3"
+    },
+    {
+      "id": 11,
+      "name": "Guitar Pickups",
+      "url": "guidedirectory/4"
+    }
+  ]
+}
