@@ -4,7 +4,6 @@
       "id": 0,
       "name": "Guitar Body",
       "image": "images/DSC02586.jpeg",
-      "featured": 1,
       "pageUrl": "/guidedirectory/0",
       "pageUrlTitle": "GuitarBody",
       "description": "Guitar Body Guide: Top Wood, body wood, etc..."
@@ -13,7 +12,6 @@
       "id": 1,
       "name": "Guitar Necks",
       "image": "images/neck_01.jpg",
-      "featured": 2,
       "pageUrl": "/guidedirectory/1",
       "pageUrlTitle": "Guitar Neck",
       "description": "We have Guitar Neck Guides"
@@ -22,7 +20,6 @@
       "id": 2,
       "name": "Guitar Brands",
       "image": "images/guitar.jpg",
-      "featured": 3,
       "pageUrl": "/guidedirectory/2",
       "pageUrlTitle": "Guitar Brands",
       "description": "Guitar Brands"
@@ -31,7 +28,6 @@
       "id": 3,
       "name": "Guitar Bridges",
       "image": "images/9862135.jpg",
-      "featured": 0,
       "pageUrl": "/guidedirectory/3",
       "pageUrlTitle": "Guitar Bridges",
       "description": "Bridges"
@@ -40,7 +36,6 @@
       "id": 4,
       "name": "Guitar Pickups",
       "image": "images/DP259FBB+BK.png",
-      "featured": 0,
       "pageUrl": "/guidedirectory/4",
       "pageUrlTitle": "Guitar pickups",
       "description": "Guide for Guitar pickups"
@@ -504,62 +499,62 @@
     {
       "id": 0,
       "name": "Home",
-      "url": ""
+      "url": "/"
     },
     {
       "id": 1,
       "name": "Contact",
-      "url": "contact"
+      "url": "/contact"
     },
     {
       "id": 2,
       "name": "About",
-      "url": "about"
+      "url": "/about"
     },
     {
       "id": 3,
       "name": "Guideaboutpage",
-      "url": "guideaboutpage"
+      "url": "/guideaboutpage"
     },
     {
       "id": 4,
       "name": "Guidesiteref",
-      "url": "guidesiteref"
+      "url": "/guidesiteref"
     },
     {
       "id": 5,
       "name": "Guidesitemap",
-      "url": "guidesitemap"
+      "url": "/guidesitemap"
     },
     {
       "id": 6,
       "name": "Guidedirectory",
-      "url": "guidedirectory"
+      "url": "/guidedirectory"
     },
     {
       "id": 7,
       "name": "Body",
-      "url": "guidedirectory/0"
+      "url": "/guidedirectory/0"
     },
     {
       "id": 8,
       "name": "Neck",
-      "url": "guidedirectory/1"
+      "url": "/guidedirectory/1"
     },
     {
       "id": 9,
       "name": "Guitar Brands",
-      "url": "guidedirectory/2"
+      "url": "/guidedirectory/2"
     },
     {
       "id": 10,
       "name": "Guitar Bridges",
-      "url": "guidedirectory/3"
+      "url": "/guidedirectory/3"
     },
     {
       "id": 11,
       "name": "Guitar Pickups",
-      "url": "guidedirectory/4"
+      "url": "/guidedirectory/4"
     }
   ]
 }
