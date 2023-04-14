@@ -337,7 +337,7 @@
     {
       "id": 4,
       "section": "Site Architecture",
-      "text": "The overall async Redux Global state approach, using middleware thunks was inspired by the NuCamp nucampsite project overall architecture. The Fetch/extra reducer architecture was used, and somewhat modified, for use with a myriad of different JSX components; most pages created using an outside data base for content. While the JSX components and site content are quite different from nucampsite, the overall use of state, with some local exceptions, was very similar to the one used in the NuCamp Redux class."
+      "text": "The overall async Redux Global state approach, using middleware thunks was inspired by the NuCamp nucampsite project overall architecture. The basic async calls using Thunks was actually updated quite a bit for try/catch architecture, that throws an error if the fetch reponse is wrong, but also handles any other error in the Promise.reject catch block -- a better approach than was the NuCampsite architecture. I also condensed the initialstate variable for readability. The extra reducer architecture was used, and somewhat modified, for use with a myriad of different JSX components; most pages created using an outside data base for content. The Thunks were, for a couple of examples, tried with .then .catch architecture, but were ultimately reset to the more modern async await approach. While the JSX components and site content are quite different from nucampsite, the overall use of state, with some local exceptions, was very similar to the one used in the NuCamp Redux class."
     },
     {
       "id": 5,
@@ -493,6 +493,33 @@
       "date": "Tue Mar 14 2023",
       "feedback": "alskdfjalskdjfalksjdfasdfasdf",
       "id": 10
+    },
+    {
+      "firstName": "Paul",
+      "lastName": "Adam",
+      "email": "pga@pga.com",
+      "country": "USA",
+      "date": "Sun Apr 09 2023",
+      "feedback": "ewrtwertwert",
+      "id": 11
+    },
+    {
+      "firstName": "Paul",
+      "lastName": "Adam",
+      "email": "pga@pga.com",
+      "country": "USA",
+      "date": "Tue Apr 11 2023",
+      "feedback": "asdfasdfasdf",
+      "id": 12
+    },
+    {
+      "firstName": "Paul",
+      "lastName": "Adam",
+      "email": "pga@pga.com",
+      "country": "USA",
+      "date": "Wed Apr 12 2023",
+      "feedback": "asdfasdfasdf",
+      "id": 13
     }
   ],
   "links": [
